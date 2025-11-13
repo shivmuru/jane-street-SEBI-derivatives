@@ -1,4 +1,4 @@
-# jane-street-SEBI-derivatives
+# Global Strategies, Local Impact: The Jane Street Episode & Structural Dynamics of Indian Capital Markets
 Analyzing Nifty Bank Index returns, volatility, and retail participation in light of the July 2025 Jane Street-SEBI Episode
 
 This repository contains all analysis, code, and results for my research paper:
